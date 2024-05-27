@@ -1,4 +1,4 @@
-![Captura de tela 2024-05-27 072357](https://github.com/Kaio-0708/Moedas/assets/123708201/8e265051-31d8-4d7d-ac72-5f271771b6dd)
+
 ![Captura de tela 2024-05-27 072451](https://github.com/Kaio-0708/Moedas/assets/123708201/131496fe-3322-4187-a065-ed8432fad464)
 ![Captura de tela 2024-05-27 072504](https://github.com/Kaio-0708/Moedas/assets/123708201/8395fa40-44ec-42aa-a8c1-d241a41bad7d)
 ![Captura de tela 2024-05-27 072516](https://github.com/Kaio-0708/Moedas/assets/123708201/dc2fc672-cc84-458f-a8b7-2bb424f390a7)
@@ -48,7 +48,7 @@ Aqui estão algumas capturas de tela para guiar você através do processo de ut
 ### Menu Principal
 Ao iniciar o programa, você será recebido com o menu principal. Selecione a moeda de origem e destino, e insira o valor a ser convertido.
 
-![Menu Principal](path/to/menu_principal_screenshot.png)
+![Menu Principal](![Captura de tela 2024-05-27 072357](https://github.com/Kaio-0708/Moedas/assets/123708201/8e265051-31d8-4d7d-ac72-5f271771b6dd)
 
 ### Resultado da Conversão
 Após inserir os valores desejados, o programa irá exibir o resultado da conversão.
