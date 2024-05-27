@@ -1,8 +1,3 @@
-
-![Captura de tela 2024-05-27 072451](https://github.com/Kaio-0708/Moedas/assets/123708201/131496fe-3322-4187-a065-ed8432fad464)
-![Captura de tela 2024-05-27 072504](https://github.com/Kaio-0708/Moedas/assets/123708201/8395fa40-44ec-42aa-a8c1-d241a41bad7d)
-![Captura de tela 2024-05-27 072516](https://github.com/Kaio-0708/Moedas/assets/123708201/dc2fc672-cc84-458f-a8b7-2bb424f390a7)
-
 # Conversor de Moeda
 
 Bem-vindo ao repositório do Conversor de Moeda. 
@@ -59,12 +54,12 @@ Em caso de desejar utilizar a mesma opção de moeda para conversão, aparece me
 Após inserir os valores desejados, o programa irá exibir o resultado da conversão.
 
 ![Captura de tela 2024-05-27 072451](https://github.com/Kaio-0708/Moedas/assets/123708201/131496fe-3322-4187-a065-ed8432fad464)
-![Captura de tela 2024-05-27 072504](https://github.com/Kaio-0708/Moedas/assets/123708201/8395fa40-44ec-42aa-a8c1-d241a41bad7d)
+![Captura de tela 2024-05-27 072516](https://github.com/Kaio-0708/Moedas/assets/123708201/dc2fc672-cc84-458f-a8b7-2bb424f390a7)
 
 ### Histórico de Conversões
 Você pode visualizar o histórico de conversões realizadas selecionando a opção correspondente no menu principal.
 
-![Captura de tela 2024-05-27 072516](https://github.com/Kaio-0708/Moedas/assets/123708201/dc2fc672-cc84-458f-a8b7-2bb424f390a7)
+![Captura de tela 2024-05-27 072504](https://github.com/Kaio-0708/Moedas/assets/123708201/8395fa40-44ec-42aa-a8c1-d241a41bad7d)
 
 ## Como Executar o Projeto
 
