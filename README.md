@@ -1,6 +1,6 @@
 # Conversor de Moeda
 
-Bem-vindo ao repositório oficial do Conversor de Moeda. 
+Bem-vindo ao repositório do Conversor de Moeda. 
 Este projeto é uma Challenge ONE: Conversor de Moedas do programa ONE-Oracle Next Education, que é parceria da Alura Latam e Oracle, no qual designa um aplicativo de linha de comando desenvolvido em Java
 que permite a conversão de valores entre diferentes moedas utilizando taxas de câmbio obtidas de uma API externa.
 O programa oferece uma interface interativa para seleção de moedas e registro de conversões realizadas, que são armazenadas em arquivos JSON.
