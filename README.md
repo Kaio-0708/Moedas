@@ -43,7 +43,7 @@ Aqui estão algumas capturas de tela para guiar você através do processo de ut
 ### Menu Principal
 Ao iniciar o programa, você será recebido com o menu principal. Selecione a moeda de origem e destino, e insira o valor a ser convertido.
 
-(![Captura de tela 2024-05-27 072357](https://github.com/Kaio-0708/Moedas/assets/123708201/8e265051-31d8-4d7d-ac72-5f271771b6dd)
+![Captura de tela 2024-05-27 072357](https://github.com/Kaio-0708/Moedas/assets/123708201/8e265051-31d8-4d7d-ac72-5f271771b6dd)
 
 ## Repetir a mesma moeda
 Em caso de desejar utilizar a mesma opção de moeda para conversão, aparece mensagem para designar outra moeda. 
