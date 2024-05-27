@@ -53,7 +53,7 @@ Ao iniciar o programa, você será recebido com o menu principal. Selecione a mo
 ## Repetir a mesma moeda
 Em caso de desejar utilizar a mesma opção de moeda para conversão, aparece mensagem para designar outra moeda. 
 
-
+![Captura de tela 2024-05-27 072542](https://github.com/Kaio-0708/Moedas/assets/123708201/1fb9ab63-6e0f-4683-85fa-464274827f09)
 
 ### Resultado da Conversão
 Após inserir os valores desejados, o programa irá exibir o resultado da conversão.
